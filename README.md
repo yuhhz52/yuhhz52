@@ -4,8 +4,8 @@
 ---
 ## 👨‍💻 Giới thiệu bản thân
 -Mình là một lập trình viên Java đam mê học hỏi và khám phá công nghệ mới.  
--Luôn mong muốn nâng cao kỹ năng lập trình, áp dụng kiến thức vào các dự án thực tế, và đóng góp giá trị cho sản phẩm cũng như đội ngũ.  
--Có thể học thêm ngôn ngữ mói và AI dể phù hợp với nhu cầu thị trường.
+- Luôn mong muốn nâng cao kỹ năng lập trình, áp dụng kiến thức vào các dự án thực tế, và đóng góp giá trị cho sản phẩm cũng như đội ngũ.  
+- Có thể học thêm ngôn ngữ mói và AI dể phù hợp với nhu cầu thị trường.
 ---
 
 ## 🎯 Mục tiêu nghề nghiệp
