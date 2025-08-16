@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, Mình là Nguyễn Thành Huy</h1>
+<h1 align="center">Xin chào, Mình là Nguyễn Thành Huy</h1>
 <h3 align="center">Lập trình viên Java</h3>
 
 ---
