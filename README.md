@@ -13,7 +13,7 @@
 - Rèn luyện kỹ năng làm việc nhóm, giao tiếp và giải quyết vấn đề.  
 - Tham gia vào các dự án thực tế để tích lũy kinh nghiệm.  
 - Thành thạo khả năng giao tiếp ngoại ngữ
-- 
+
 ## Kết nối với tôi
 <p align="left">
   Email: <a href="mailto:ngthanhhuy09104@gmail.com">ngthanhhuy09104@gmail.com</a>  
