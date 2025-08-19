@@ -6,12 +6,14 @@
 - Luôn mong muốn nâng cao kỹ năng lập trình, áp dụng kiến thức vào các dự án thực tế, và đóng góp giá trị cho sản phẩm cũng như đội ngũ.  
 - Có thể học thêm ngôn ngữ khác và công nghệ AI dể phù hợp với nhu cầu thị trường.
 ---
+
 ## Mục tiêu nghề nghiệp
 - Không ngừng học hỏi để trở thành một lập trình viên Java giỏi.  
 - Thành thạo các công nghệ liên quan đến Java, Spring Boot, và cơ sở dữ liệu.  
 - Rèn luyện kỹ năng làm việc nhóm, giao tiếp và giải quyết vấn đề.  
 - Tham gia vào các dự án thực tế để tích lũy kinh nghiệm.  
-- Thành thạo khả năng giao tiếp ngoại ngữ 
+- Thành thạo khả năng giao tiếp ngoại ngữ
+- 
 ## Kết nối với tôi
 <p align="left">
   Email: <a href="mailto:ngthanhhuy09104@gmail.com">ngthanhhuy09104@gmail.com</a>  
