@@ -1,11 +1,12 @@
 <h1 align="center">Xin chào, Mình là Nguyễn Thành Huy</h1>
 <h3 align="center">Software Engineer</h3>
 ---
-Giới thiệu bản thân
+
+## Giới thiệu bản thân
 - Mình là một lập trình viên Java đam mê học hỏi và khám phá công nghệ mới.  
 - Luôn mong muốn nâng cao kỹ năng lập trình, áp dụng kiến thức vào các dự án thực tế, và đóng góp giá trị cho sản phẩm cũng như đội ngũ.  
 - Có thể học thêm ngôn ngữ khác và công nghệ AI dể phù hợp với nhu cầu thị trường.
----
+
 
 ## Mục tiêu nghề nghiệp
 - Không ngừng học hỏi để trở thành một lập trình viên Java giỏi.  
