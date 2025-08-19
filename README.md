@@ -1,6 +1,5 @@
 <h1 align="center">Xin chào, Mình là Nguyễn Thành Huy</h1>
 <h3 align="center">Software Engineer</h3>
----
 
 ## Giới thiệu bản thân
 - Mình là một lập trình viên Java đam mê học hỏi và khám phá công nghệ mới.  
